@@ -29,11 +29,13 @@ latest_posts:
 
 We are the **Cosmology with Statistical Inference (CSI)** research group at **IIT Indore**.
 
-Our research focuses on understanding the **evolutionary history of the Universe**, especially the period when the **first stars and galaxies** formed — known as the **Cosmic Dawn (CD)** — and the subsequent transformation of the intergalactic medium from neutral to ionized during the **Epoch of Reionization (EoR)**.
+Our research focuses on understanding the **evolutionary history of the Universe**, especially the period when the **first stars and galaxies** formed, known as the **Cosmic Dawn (CD)** — and the subsequent transformation of the intergalactic medium from neutral to ionized during the **Epoch of Reionization (EoR)**.
 
 We are particularly interested in extracting physical information from observations of the **redshifted 21-cm signal**, large-scale structure tracers, and multi-wavelength astrophysical surveys. Our work involves developing and applying statistical, computational, and inference-driven techniques to interpret data and connect observations with theoretical models of the early Universe.
 
 To achieve these goals, we work with data from current radio interferometers such as **GMRT, LOFAR, MWA**, and **PAPER**, as well as preparing for science with the upcoming **Square Kilometre Array (SKA)**. We also explore synergies with telescopes across optical, infrared, and X-ray bands, including **Euclid, Athena, WFIRST, JWST, ELT, TMT, SPHEREx, TIME,** and **CONCERTO**, among others.
 
 These combined observations and statistical approaches will open a **new window into the early stages of cosmic structure formation**, helping us better understand how the first luminous sources shaped the Universe we observe today.
+<!--
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+-->
