@@ -6,7 +6,7 @@ permalink: /pi/
 
 <h1 style="font-size:3rem; font-weight:600;">Dr. Suman Majumdar</h1>
 
-<img src="/img/suman.jpg" width="220" style="border-radius: 6px; margin-top: 10px; margin-bottom: 15px;">
+<img src="/assets/img/suman.jpg" width="220" style="border-radius: 6px; margin-top: 10px; margin-bottom: 15px;">
 
 Associate Professor  
 Department of Astronomy, Astrophysics and Space Engineering (DAASE)  
