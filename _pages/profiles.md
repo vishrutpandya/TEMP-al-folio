@@ -1,20 +1,54 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: Members of the lab 
+title: People
+description: Members of the lab
 nav: true
 nav_order: 7
+---
+
+## PhD Students
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    content: about_PhD1.md
+    image_circular: true
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p><a href="mailto:phd1@uni.edu">Email</a></p>
+      <p><a href="https://linkedin.com/in/phd1">LinkedIn</a></p>
+      <p><a href="https://github.com/phd1">GitHub</a></p>
+
+  - align: left
+    image: prof_pic.jpg
+    content: about_PhD1.md
+    image_circular: true
+    more_info: >
+      <p><a href="mailto:phd2@uni.edu">Email</a></p>
+      <p><a href="https://linkedin.com/in/phd2">LinkedIn</a></p>
+      <p><a href="https://github.com/phd2">GitHub</a></p>
+
 ---
+
+## Masters Students
+
+profiles:
+  - align: right
+    image: prof_pic.jpg
+    content: about_Masters1.md
+    image_circular: true
+    more_info: >
+      <p><a href="mailto:ms1@uni.edu">Email</a></p>
+      <p><a href="https://linkedin.com/in/ms1">LinkedIn</a></p>
+      <p><a href="https://github.com/ms1">GitHub</a></p>
+
+  - align: left
+    image: prof_pic.jpg
+    content: about_Masters1.md
+    image_circular: true
+    more_info: >
+      <p><a href="mailto:ms2@uni.edu">Email</a></p>
+      <p><a href="https://linkedin.com/in/ms2">LinkedIn</a></p>
+      <p><a href="https://github.com/ms2">GitHub</a></p>
+
+
