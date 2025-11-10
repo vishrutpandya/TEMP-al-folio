@@ -3,6 +3,7 @@ layout: about
 title: About the group
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+background_image: EoR.jpg
 
 profile:
   align: right
