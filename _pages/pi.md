@@ -8,7 +8,7 @@ nav_order: 3   # optional menu order
 
 # Dr. Suman Majumdar
 
-<img src="/assets/img/suman.jpg" width="230" style="border-radius:8px; margin-top:15px;">
+<img src="{{ '/assets/img/suman.jpg' | relative_url }}" width="230" style="border-radius:8px; margin-top:15px;">
 
 Associate Professor  
 Department of Astronomy, Astrophysics and Space Engineering (DAASE)  
