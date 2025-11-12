@@ -3,7 +3,7 @@ layout: page
 title: "Principal Investigator"
 permalink: /pi/
 nav: true
-nav_order: 3   # optional menu order
+nav_order: 2   
 ---
 
 # Dr. Suman Majumdar
