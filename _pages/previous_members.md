@@ -2,7 +2,7 @@
 layout: default
 title: Collaborators and Previous Members
 permalink: /previous_members/
-nav: true
+nav: false
 nav_order: 8
 ---
 
