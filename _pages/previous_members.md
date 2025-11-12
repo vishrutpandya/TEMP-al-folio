@@ -3,7 +3,7 @@ layout: profiles
 permalink: /previous_members/
 title: Previous Members
 description: Past members of the lab and their current positions
-nav: true
+nav: false
 nav_order: 8
 ---
 
