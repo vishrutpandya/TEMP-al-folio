@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Current Team
+title: Reserach group
 permalink: /team/
 nav: true
-nav_order: 7
+nav_order: 3
 ---
 
 # Current Team Members
