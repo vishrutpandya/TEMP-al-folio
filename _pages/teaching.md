@@ -6,8 +6,6 @@ nav: true
 nav_order: 7
 ---
 
-# Teaching
-
 Below is a list of courses taught over the years, grouped by semester.  
 Course codes are formatted as links — replace the URLs with actual pages if you create them.
 
