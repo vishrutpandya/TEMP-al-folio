@@ -3,10 +3,10 @@ layout: default
 title: Collaborators & Former Members
 permalink: /collaborators/
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-# Collaborators & Former Team Members
+# Collaborators
 
 ## Collaborators
 
