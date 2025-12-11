@@ -6,8 +6,6 @@ nav: true
 nav_order: 4
 ---
 
-# Collaborators
-
 ## Collaborators
 
 <div style="display:flex; align-items:center; margin-bottom:2rem;">
