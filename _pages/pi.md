@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Dr. Suman Majumdar"
-permalink: /pi/
+title: "About"
+permalink: /
 nav: true
 nav_order: 1   
 ---
