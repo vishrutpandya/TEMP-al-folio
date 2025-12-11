@@ -40,8 +40,3 @@ I am a member of the “Epoch of Reionization and the Dark Ages” international
 **[Download CV (PDF)](/assets/cv_suman.pdf)**
 
 ---
-
-## Teaching
-
-- PHY 301 — Introduction to Cosmology (Autumn 2024)
-- PHY 225 — Classical Mechanics (Spring 2023)
