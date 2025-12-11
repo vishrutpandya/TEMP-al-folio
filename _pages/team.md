@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-# Current Team Members
+# Team Members
 
 ## PhD Students
 
