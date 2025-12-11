@@ -1,16 +1,9 @@
 ---
 layout: page
-title: Publications & Grants
+title: Grants & Publications
 permalink: /publications/
 nav: true
 nav_order: 6
----
-
-# Publications
-
-Most of my publications can be found at the following link:
-
-**[arXiv: S. Majumdar Publications](https://arxiv.org/a/majumdar_s_1.html)**
 
 ---
 
@@ -61,3 +54,11 @@ Following are the externally funded research grants awarded to the group:
 **PI:** Suman Majumdar  
 **Collaborators:** Stockholm & Uppsala Universities (Sweden)  
 **Funding Agency:** [SPARC, Ministry of Human Resource Development, GoI](https://sparc.iitkgp.ac.in/)
+
+---
+
+# Publications
+
+Most of my publications can be found at the following link:
+
+**[arXiv: S. Majumdar Publications](https://arxiv.org/a/majumdar_s_1.html)**
