@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Theme
 permalink: /theme/
-description: About the group + projects overview
 nav: true
 nav_order: 2
 display_categories: [work, fun]
