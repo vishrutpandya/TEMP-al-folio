@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: "Cosmology with Statistical Inference (CSI) lab"
+title: "Cosmology with Statistical Inference (CSI)" # the website title (if blank, full name will be used instead)
+first_name: "Dr. Suman"
 middle_name: 
-last_name: 
+last_name: "Majumdar"
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: >
