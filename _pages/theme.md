@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Theme
 permalink: /theme/
 nav: true
 nav_order: 2
