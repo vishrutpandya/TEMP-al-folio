@@ -6,7 +6,6 @@ nav: true
 nav_order: 8
 ---
 
-# News
 
 Below are recent updates, announcements, publications, and events from the group.  
 Any of the highlighted words can be turned into links — simply replace the `(#)`.
