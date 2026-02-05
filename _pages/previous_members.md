@@ -8,65 +8,19 @@ nav_order: 8
 
 # Collaborators and Previous Team Members
 
-## Collaborators
-
-<div style="display:flex; align-items:center; margin-bottom:2rem;">
-  <img src="/assets/img/prof_pic.jpg" alt="Collaborator 1" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
-  <div>
-    <h3>Collaborator 1</h3>
-    <p>
-      <a href="mailto:collab1@uni.edu"><i class="fas fa-envelope"></i></a> &nbsp;
-      <a href="https://linkedin.com/in/collab1" target="_blank"><i class="fab fa-linkedin"></i></a> &nbsp;
-      <a href="https://github.com/collab1" target="_blank"><i class="fab fa-github"></i></a>
-    </p>
-    <p>Affiliation: Institute of Theoretical Astrophysics, University of Example.  
-    Works with the group on cosmological simulations and reionization models.</p>
-  </div>
-</div>
-
-<div style="display:flex; align-items:center; flex-direction:row-reverse; margin-bottom:2rem;">
-  <img src="/assets/img/prof_pic.jpg" alt="Collaborator 2" style="width:150px; height:150px; border-radius:50%; margin-left:20px;">
-  <div>
-    <h3>Collaborator 2</h3>
-    <p>
-      <a href="mailto:collab2@uni.edu"><i class="fas fa-envelope"></i></a> &nbsp;
-      <a href="https://linkedin.com/in/collab2" target="_blank"><i class="fab fa-linkedin"></i></a> &nbsp;
-      <a href="https://github.com/collab2" target="_blank"><i class="fab fa-github"></i></a>
-    </p>
-    <p>Affiliation: Department of Physics, Example Tech.  
-    Collaborates on large-scale structure analysis and data modeling.</p>
-  </div>
-</div>
-
----
-
 ## Former PhD Students
 
 <div style="display:flex; align-items:center; margin-bottom:2rem;">
-  <img src="/assets/img/prof_pic.jpg" alt="Former PhD Student 1" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
+  <img src="TEMP-al-folio/assets/img/Mohammad Kamran.jpg" alt="Mohd Kamran" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
   <div>
-    <h3>Former PhD Student 1</h3>
+    <h3>Mohd Kamran</h3>
     <p>
-      <a href="mailto:prevphd1@uni.edu"><i class="fas fa-envelope"></i></a> &nbsp;
-      <a href="https://linkedin.com/in/prevphd1" target="_blank"><i class="fab fa-linkedin"></i></a> &nbsp;
-      <a href="https://github.com/prevphd1" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="mailto:mohdkamran@inaf.it"><i class="fas fa-envelope"></i></a>
     </p>
-    <p>Now at: Postdoctoral Fellow, University of Example.  
-    Research focused on structure formation and numerical cosmology.</p>
-  </div>
-</div>
-
-<div style="display:flex; align-items:center; flex-direction:row-reverse; margin-bottom:2rem;">
-  <img src="/assets/img/prof_pic.jpg" alt="Former PhD Student 2" style="width:150px; height:150px; border-radius:50%; margin-left:20px;">
-  <div>
-    <h3>Former PhD Student 2</h3>
     <p>
-      <a href="mailto:prevphd2@uni.edu"><i class="fas fa-envelope"></i></a> &nbsp;
-      <a href="https://linkedin.com/in/prevphd2" target="_blank"><i class="fab fa-linkedin"></i></a> &nbsp;
-      <a href="https://github.com/prevphd2" target="_blank"><i class="fab fa-github"></i></a>
+      Now at: Postdoctoral Researcher, INAF – Astronomical Observatory of Brera.  
+      Research interests include Cosmic Dawn and the Epoch of Reionization using 21-cm cosmology and line intensity mapping.
     </p>
-    <p>Now at: Scientist, Space Research Laboratory.  
-    Works on radio cosmology and CMB foreground separation.</p>
   </div>
 </div>
 
@@ -75,29 +29,58 @@ nav_order: 8
 ## Former Masters Students
 
 <div style="display:flex; align-items:center; margin-bottom:2rem;">
-  <img src="/assets/img/prof_pic.jpg" alt="Former Masters Student 1" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
+  <img src="TEMP-al-folio/assets/img/Prasad Posture.jpg" alt="Prasad Rajesh Posture" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
   <div>
-    <h3>Former Masters Student 1</h3>
+    <h3>Prasad Rajesh Posture</h3>
     <p>
-      <a href="mailto:prevm1@uni.edu"><i class="fas fa-envelope"></i></a> &nbsp;
-      <a href="https://linkedin.com/in/prevm1" target="_blank"><i class="fab fa-linkedin"></i></a> &nbsp;
-      <a href="https://github.com/prevm1" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="mailto:prasadposture@gmail.com"><i class="fas fa-envelope"></i></a>
     </p>
-    <p>Now at: PhD Student, IIT Bombay.  
-    Studying galaxy clustering and dark energy constraints.</p>
+    <p>
+      Now at: Quantitative Researcher in High Frequency Trading.  
+      Worked on machine-learning-driven precision cosmology and statistical inference.
+    </p>
   </div>
 </div>
 
 <div style="display:flex; align-items:center; flex-direction:row-reverse; margin-bottom:2rem;">
-  <img src="/assets/img/prof_pic.jpg" alt="Former Masters Student 2" style="width:150px; height:150px; border-radius:50%; margin-left:20px;">
+  <img src="TEMP-al-folio/assets/img/Parth Kothari.jpg" alt="Parth Kothari" style="width:150px; height:150px; border-radius:50%; margin-left:20px;">
   <div>
-    <h3>Former Masters Student 2</h3>
+    <h3>Parth Kothari</h3>
     <p>
-      <a href="mailto:prevm2@uni.edu"><i class="fas fa-envelope"></i></a> &nbsp;
-      <a href="https://linkedin.com/in/prevm2" target="_blank"><i class="fab fa-linkedin"></i></a> &nbsp;
-      <a href="https://github.com/prevm2" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="mailto:parth.kothari96@gmail.com"><i class="fas fa-envelope"></i></a>
     </p>
-    <p>Now at: Research Scientist, NVIDIA.  
-    Focused on AI-driven modeling of cosmological datasets.</p>
+    <p>
+      Now at: Data Operations Analyst, NielsenIQ.  
+      Formerly worked on cosmological data analysis and statistical modeling.
+    </p>
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:2rem;">
+  <img src="TEMP-al-folio/assets/img/Hemanth Potluri.jpg" alt="Hemanth Potluri" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
+  <div>
+    <h3>Hemanth Potluri</h3>
+    <p>
+      <a href="mailto:hemanthpotluri@gmail.com"><i class="fas fa-envelope"></i></a>
+    </p>
+    <p>
+      Now at: PhD Student, Stellenbosch University & University of the Western Cape.  
+      Research interests include 21-cm cosmology, large-scale structure, and the CMB.
+    </p>
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; flex-direction:row-reverse; margin-bottom:2rem;">
+  <img src="TEMP-al-folio/assets/img/Sanjay Kumar yadav.png" alt="Sanjay Kumar Yadav" style="width:150px; height:150px; border-radius:50%; margin-left:20px;">
+  <div>
+    <h3>Sanjay Kumar Yadav</h3>
+    <p>
+      <a href="mailto:sanjaykumaryadav070@gmail.com"><i class="fas fa-envelope"></i></a> &nbsp;
+      <a href="https://www.linkedin.com/in/sanjay-kumar-yadav/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    </p>
+    <p>
+      Now at: AI Engineer, Nestack Technologies.  
+      Worked on constraining reionization parameters using 21-cm cosmology.
+    </p>
   </div>
 </div>
