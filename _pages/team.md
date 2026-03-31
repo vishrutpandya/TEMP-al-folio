@@ -11,7 +11,7 @@ nav_order: 3
 ## PhD Students
 
 <div style="display:flex; align-items:center; margin-bottom:2rem;">
-  <img src="assets/img/Shiriny_Akthar - Shiriny Akthar.jpeg" alt="Shiriny Akthar" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
+  <img src="{{ '/assets/img/Shiriny_Akthar.jpeg' | relative_url }}" alt="Shiriny Akthar" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
   <div>
     <h3>Shiriny Akthar</h3>
     <p>
@@ -24,7 +24,7 @@ nav_order: 3
 </div>
 
 <div style="display:flex; align-items:center; flex-direction:row-reverse; margin-bottom:2rem;">
-  <img src="assets/img/Mohit_Dosibhatla - Mohit Dosibhatla.jpg" alt="Manas Mohit Dosibhatla" style="width:150px; height:150px; border-radius:50%; margin-left:20px;">
+  <img src="{{ '/assets/img/Mohit_Dosibhatla.jpg' | relative_url }}" alt="Manas Mohit Dosibhatla" style="width:150px; height:150px; border-radius:50%; margin-left:20px;">
   <div>
     <h3>Manas Mohit Dosibhatla</h3>
     <p>
@@ -38,7 +38,7 @@ nav_order: 3
 </div>
 
 <div style="display:flex; align-items:center; margin-bottom:2rem;">
-  <img src="assets/img/leon_profile - Leon Noble.jpg" alt="Leon Noble" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
+  <img src="{{ '/assets/img/leon_profile.jpg' | relative_url }}" alt="Leon Noble" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
   <div>
     <h3>Leon Noble</h3>
     <p>
@@ -56,7 +56,7 @@ nav_order: 3
 ## Masters Students
 
 <div style="display:flex; align-items:center; margin-bottom:2rem;">
-  <img src="assets/img/Renuka_mahajan - Renuka Mahajan.jpg" alt="Renuka Pravin Mahajan" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
+  <img src="{{ '/assets/img/Renuka_mahajan.jpg' | relative_url }}" alt="Renuka Pravin Mahajan" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
   <div>
     <h3>Renuka Pravin Mahajan</h3>
     <p>
