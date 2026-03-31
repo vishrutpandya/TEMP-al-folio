@@ -1,86 +1,69 @@
 ---
 layout: default
-title: Collaborators and Previous Members
-permalink: /previous_members/
+title: Research Group2
+permalink: /team2/
 nav: true
 nav_order: 4
 ---
 
-# Collaborators and Previous Team Members
+# Team Members
 
-## Former PhD Students
-
-<div style="display:flex; align-items:center; margin-bottom:2rem;">
-  <img src="{{ '/assets/img/Mohd_Kamran.jpg' | relative_url }}" alt="Mohd Kamran" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
-  <div>
-    <h3>Mohd Kamran</h3>
-    <p>
-      <a href="mailto:mohdkamran@inaf.it"><i class="fas fa-envelope"></i></a>
-    </p>
-    <p>
-      Now at: Postdoctoral Researcher, INAF – Astronomical Observatory of Brera.  
-      Research interests include Cosmic Dawn and the Epoch of Reionization using 21-cm cosmology and line intensity mapping.
-    </p>
-  </div>
-</div>
-
-<hr>
-
-## Former Masters Students
+## PhD Students
 
 <div style="display:flex; align-items:center; margin-bottom:2rem;">
-  <img src="{{ '/assets/img/Prasad_Posture.jpg' | relative_url }}" alt="Prasad Rajesh Posture" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
+  <img src="{{ '/assets/img/Shiriny_Akthar.jpeg' | relative_url }}" alt="Shiriny Akthar" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
   <div>
-    <h3>Prasad Rajesh Posture</h3>
+    <h3>Shiriny Akthar</h3>
     <p>
-      <a href="mailto:prasadposture@gmail.com"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:shirinyakthar@gmail.com"><i class="fas fa-envelope"></i></a>
     </p>
     <p>
-      Now at: Quantitative Researcher in High Frequency Trading.  
-      Worked on machine-learning-driven precision cosmology and statistical inference.
+      PhD student working on cosmology with line intensity mapping, probing reionization and the cosmic dawn.
     </p>
   </div>
 </div>
 
 <div style="display:flex; align-items:center; flex-direction:row-reverse; margin-bottom:2rem;">
-  <img src="{{ '/assets/img/Parth_Kothari.jpg' | relative_url }}" alt="Parth Kothari" style="width:150px; height:150px; border-radius:50%; margin-left:20px;">
+  <img src="{{ '/assets/img/Mohit_Dosibhatla.jpg' | relative_url }}" alt="Manas Mohit Dosibhatla" style="width:150px; height:150px; border-radius:50%; margin-left:20px;">
   <div>
-    <h3>Parth Kothari</h3>
+    <h3>Manas Mohit Dosibhatla</h3>
     <p>
-      <a href="mailto:parth.kothari96@gmail.com"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:manasmohitd@gmail.com"><i class="fas fa-envelope"></i></a> &nbsp;
+      <a href="https://github.com/dmmohit" target="_blank"><i class="fab fa-github"></i></a>
     </p>
     <p>
-      Now at: Data Operations Analyst, NielsenIQ.  
-      Formerly worked on cosmological data analysis and statistical modeling.
+      PhD student studying large-scale structure using multi-line intensity mapping and statistical inference.
     </p>
   </div>
 </div>
 
 <div style="display:flex; align-items:center; margin-bottom:2rem;">
-  <img src="{{ '/assets/img/Hemanth_Potluri.jpg' | relative_url }}" alt="Hemanth Potluri" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
+  <img src="{{ '/assets/img/leon_profile.jpg' | relative_url }}" alt="Leon Noble" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
   <div>
-    <h3>Hemanth Potluri</h3>
+    <h3>Leon Noble</h3>
     <p>
-      <a href="mailto:hemanthpotluri@gmail.com"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:leonnoble.physics@gmail.com"><i class="fas fa-envelope"></i></a> &nbsp;
+      <a href="https://leonnoble.github.io/" target="_blank"><i class="fab fa-github"></i></a>
     </p>
     <p>
-      Now at: PhD Student, Stellenbosch University & University of the Western Cape.  
-      Research interests include 21-cm cosmology, large-scale structure, and the CMB.
+      PhD student working on 21-cm cosmology, line intensity mapping, and the Epoch of Reionization.
     </p>
   </div>
 </div>
 
-<div style="display:flex; align-items:center; flex-direction:row-reverse; margin-bottom:2rem;">
-  <img src="{{ '/assets/img/Sanjay_Kumar_Yadav.png' | relative_url }}" alt="Sanjay Kumar Yadav" style="width:150px; height:150px; border-radius:50%; margin-left:20px;">
+---
+
+## Masters Students
+
+<div style="display:flex; align-items:center; margin-bottom:2rem;">
+  <img src="{{ '/assets/img/Renuka_mahajan.jpg' | relative_url }}" alt="Renuka Pravin Mahajan" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
   <div>
-    <h3>Sanjay Kumar Yadav</h3>
+    <h3>Renuka Pravin Mahajan</h3>
     <p>
-      <a href="mailto:sanjaykumaryadav070@gmail.com"><i class="fas fa-envelope"></i></a> &nbsp;
-      <a href="https://www.linkedin.com/in/sanjay-kumar-yadav/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="mailto:renukamahajan01@gmail.com"><i class="fas fa-envelope"></i></a>
     </p>
     <p>
-      Now at: AI Engineer, Nestack Technologies.  
-      Worked on constraining reionization parameters using 21-cm cosmology.
+      MS research student exploring exotic physics using line intensity mapping and cosmological surveys.
     </p>
   </div>
 </div>
