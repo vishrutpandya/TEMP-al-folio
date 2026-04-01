@@ -11,7 +11,7 @@ nav_order: 4
 ## Former PhD Students
 
 <div style="display:flex; align-items:center; margin-bottom:2rem;">
-  <img src="https://vishrutpandya.github.io/TEMP-al-folio/assets/img/Mohd_Kamran.jpg" alt="Mohd Kamran" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
+  <img src="https://vishrutpandya.github.io/TEMP-al-folio/assets/img/Mohd_Kamran.jpg" style="width:150px;">
   <div>
     <h3>Mohd Kamran</h3>
     <p>
