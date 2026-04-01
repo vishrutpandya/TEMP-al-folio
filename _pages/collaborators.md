@@ -11,7 +11,7 @@ nav_order: 4
 ## Former PhD Students
 
 <div style="display:flex; align-items:center; margin-bottom:2rem;">
-  <img src="{{ site.baseurl }}/assets/img/Mohd_Kamran.jpg" alt="Mohd Kamran" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
+  <img src="https://vishrutpandya.github.io/TEMP-al-folio/assets/img/Mohd_Kamran.jpg" alt="Mohd Kamran" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
   <div>
     <h3>Mohd Kamran</h3>
     <p>
@@ -29,7 +29,7 @@ nav_order: 4
 ## Former Masters Students
 
 <div style="display:flex; align-items:center; margin-bottom:2rem;">
-  <img src="{{ site.baseurl }}/assets/img/Prasad_Posture.jpg" alt="Prasad Rajesh Posture" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
+  <img src="https://vishrutpandya.github.io/TEMP-al-folio/assets/img/Prasad_Posture.jpg" alt="Prasad Rajesh Posture" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
   <div>
     <h3>Prasad Rajesh Posture</h3>
     <p>
@@ -43,7 +43,7 @@ nav_order: 4
 </div>
 
 <div style="display:flex; align-items:center; flex-direction:row-reverse; margin-bottom:2rem;">
-  <img src="{{ site.baseurl }}/assets/img/Parth_Kothari.jpg" alt="Parth Kothari" style="width:150px; height:150px; border-radius:50%; margin-left:20px;">
+  <img src="https://vishrutpandya.github.io/TEMP-al-folio/assets/img/Parth_Kothari.jpg" alt="Parth Kothari" style="width:150px; height:150px; border-radius:50%; margin-left:20px;">
   <div>
     <h3>Parth Kothari</h3>
     <p>
@@ -57,7 +57,7 @@ nav_order: 4
 </div>
 
 <div style="display:flex; align-items:center; margin-bottom:2rem;">
-  <img src="{{ site.baseurl }}/assets/img/Hemanth_Potluri.jpg" alt="Hemanth Potluri" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
+  <img src="https://vishrutpandya.github.io/TEMP-al-folio/assets/img/Hemanth_Potluri.jpg" alt="Hemanth Potluri" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
   <div>
     <h3>Hemanth Potluri</h3>
     <p>
@@ -71,7 +71,7 @@ nav_order: 4
 </div>
 
 <div style="display:flex; align-items:center; flex-direction:row-reverse; margin-bottom:2rem;">
-  <img src="{{ site.baseurl }}/assets/img/Sanjay_Kumar_Yadav.png" alt="Sanjay Kumar Yadav" style="width:150px; height:150px; border-radius:50%; margin-left:20px;">
+  <img src="https://vishrutpandya.github.io/TEMP-al-folio/assets/img/Sanjay_Kumar_Yadav.png" alt="Sanjay Kumar Yadav" style="width:150px; height:150px; border-radius:50%; margin-left:20px;">
   <div>
     <h3>Sanjay Kumar Yadav</h3>
     <p>
