@@ -18,13 +18,13 @@ nav_order: 4
       <a href="mailto:mohdkamran@inaf.it"><i class="fas fa-envelope"></i></a>
     </p>
     <p>
-      Now at: Postdoctoral Researcher, INAF – Astronomical Observatory of Brera.  
+      Now at: Postdoctoral Researcher, INAF – Astronomical Observatory of Brera.<br>
       Research interests include Cosmic Dawn and the Epoch of Reionization using 21-cm cosmology and line intensity mapping.
     </p>
   </div>
 </div>
 
----
+<hr>
 
 ## Former Masters Students
 
@@ -36,7 +36,7 @@ nav_order: 4
       <a href="mailto:prasadposture@gmail.com"><i class="fas fa-envelope"></i></a>
     </p>
     <p>
-      Now at: Quantitative Researcher in High Frequency Trading.  
+      Now at: Quantitative Researcher in High Frequency Trading.<br>
       Worked on machine-learning-driven precision cosmology and statistical inference.
     </p>
   </div>
@@ -50,7 +50,7 @@ nav_order: 4
       <a href="mailto:parth.kothari96@gmail.com"><i class="fas fa-envelope"></i></a>
     </p>
     <p>
-      Now at: Data Operations Analyst, NielsenIQ.  
+      Now at: Data Operations Analyst, NielsenIQ.<br>
       Formerly worked on cosmological data analysis and statistical modeling.
     </p>
   </div>
@@ -64,7 +64,7 @@ nav_order: 4
       <a href="mailto:hemanthpotluri@gmail.com"><i class="fas fa-envelope"></i></a>
     </p>
     <p>
-      Now at: PhD Student, Stellenbosch University & University of the Western Cape.  
+      Now at: PhD Student, Stellenbosch University & University of the Western Cape.<br>
       Research interests include 21-cm cosmology, large-scale structure, and the CMB.
     </p>
   </div>
@@ -79,7 +79,7 @@ nav_order: 4
       <a href="https://www.linkedin.com/in/sanjay-kumar-yadav/" target="_blank"><i class="fab fa-linkedin"></i></a>
     </p>
     <p>
-      Now at: AI Engineer, Nestack Technologies.  
+      Now at: AI Engineer, Nestack Technologies.<br>
       Worked on constraining reionization parameters using 21-cm cosmology.
     </p>
   </div>
