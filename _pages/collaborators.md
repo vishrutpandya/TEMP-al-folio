@@ -53,10 +53,10 @@ nav_order: 4
   </div>
 </div>
 
-<div style="display:flex; align-items:center; margin-bottom:2rem;">
+<div style="display:flex; align-items:center; flex-direction:row-reverse; margin-bottom:2rem;">
   <img src="{{ '/assets/img/Sanjay_Kumar_Yadav.png' | relative_url }}" alt="Sanjay Kumar Yadav" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
   <div>
-    <h3>Mohd Kamran</h3>
+    <h3>Sanjay Kumar Yadav</h3>
     <p>
       <a href="mailto:sanjaykumaryadav070@gmail.com"><i class="fas fa-envelope"></i></a> &nbsp;
       <a href="https://www.linkedin.com/in/sanjay-kumar-yadav/" target="_blank">LinkedIn</a>
@@ -70,7 +70,7 @@ nav_order: 4
 <div style="display:flex; align-items:center; margin-bottom:2rem;">
   <img src="{{ '/assets/img/Hemanth_Potluri.jpg' | relative_url }}" alt="Hemanth Potluri" style="width:150px; height:150px; border-radius:50%; margin-right:20px;">
   <div>
-    <h3>Sanjay Hemanth Potluri</h3>
+    <h3>Hemanth Potluri</h3>
     <p>
       <a href="mailto:hemanthpotluri@gmail.com"><i class="fas fa-envelope"></i></a> &nbsp;
     </p>
