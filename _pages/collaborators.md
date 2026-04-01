@@ -18,7 +18,7 @@ nav_order: 4
       <a href="mailto:shirinyakthar@gmail.com"><i class="fas fa-envelope"></i></a>
     </p>
     <p>
-      PhD student working on cosmology with line intensity mapping, probing reionization and the cosmic dawn.
+      PhD students working on cosmology with line intensity mapping, probing reionization and the cosmic dawn.
     </p>
   </div>
 </div>
